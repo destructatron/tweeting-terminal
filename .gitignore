@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+#Ignore config.txt as this contains sensitive data and should not be in the repo.
+config.txt
